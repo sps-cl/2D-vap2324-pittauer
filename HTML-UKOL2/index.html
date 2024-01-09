@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styly.css">
+</head>
+<body>
+    <form action="data.html">
+        <table>
+            <thead>
+                <tr>
+                    <th colspan="2">Registrace</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <th>
+                        Jméno:
+                    </th>
+                    <th>
+                        <label for="jmeno:"></label>
+                        <input id="Jmeno" type="text" name="jmeno" required>
+                        <br>
+                    </th>
+                </tr>
+                <tr>
+                    <th>
+                        Heslo:
+                    </th>
+                    <th>
+                        <label for="heslo"></label>
+                        <input id="heslo" type="password" name="heslo" required>
+                        <br>
+                    </th>
+                </tr>
+                <tr>
+                    <th>
+                        Věk:
+                    </th>
+                    <th>
+                        <label for="vek"></label>
+                        <input id="vek" type="number" name="vek" min="0" max="150" step="1" required>
+                        <br>
+                    </th>
+                </tr>
+                <tr>
+                    <th>
+                        Email:
+                    </th>
+                    <th>
+                        <label for="email"></label>
+                        <input id="email" type="email" name="email" required>
+                        <br>
+                    </th>
+                </tr>
+                <tr>
+                    <th>
+                        Student:
+                    </th>
+                    <th>
+                        <label for="student"></label>
+                        <input id="student" type="checkbox" name="student">
+                        <br>
+                    </th>
+                </tr>
+                <tr>
+                    <th>
+                        Pohlaví:
+                    </th>
+                    <th>
+                        <label for="muz">muž:</label>
+                        <input id="muz" type="radio" name="pohlaví" required value="muz">
+                        <label for="zena">zena:</label>
+                        <input id="zena" type="radio" name="pohlaví" required value="zena">
+                        <br>
+                    </th>
+                </tr>
+                <tr>
+                    <th>
+                        Vzdělání:
+                    </th>
+                    <th>
+                        <label for="vzdelani"></label>
+                        <input id="vzdelani" type="select" name="vzdelani" required>
+                        <br>
+                    </th>
+                </tr>
+
+            </tbody>
+        </table>
+        <br>
+        <input type="submit" value="Potvrdit">
+    </form>
+</body>
+</html>
