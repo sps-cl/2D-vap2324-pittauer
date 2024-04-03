@@ -1,0 +1,6 @@
+R:\VAP\Repozitar\2D-vap2324-pittauer\konzolovaAplikacePrvniSamostatnaPrace\prvniSamostatnaPrace\prvniSamostatnaPrace\obj\Debug\prvniSamostatnaPrace.csprojResolveAssemblyReference.cache
+R:\VAP\Repozitar\2D-vap2324-pittauer\konzolovaAplikacePrvniSamostatnaPrace\prvniSamostatnaPrace\prvniSamostatnaPrace\bin\Debug\prvniSamostatnaPrace.exe.config
+R:\VAP\Repozitar\2D-vap2324-pittauer\konzolovaAplikacePrvniSamostatnaPrace\prvniSamostatnaPrace\prvniSamostatnaPrace\bin\Debug\prvniSamostatnaPrace.exe
+R:\VAP\Repozitar\2D-vap2324-pittauer\konzolovaAplikacePrvniSamostatnaPrace\prvniSamostatnaPrace\prvniSamostatnaPrace\bin\Debug\prvniSamostatnaPrace.pdb
+R:\VAP\Repozitar\2D-vap2324-pittauer\konzolovaAplikacePrvniSamostatnaPrace\prvniSamostatnaPrace\prvniSamostatnaPrace\obj\Debug\prvniSamostatnaPrace.exe
+R:\VAP\Repozitar\2D-vap2324-pittauer\konzolovaAplikacePrvniSamostatnaPrace\prvniSamostatnaPrace\prvniSamostatnaPrace\obj\Debug\prvniSamostatnaPrace.pdb
